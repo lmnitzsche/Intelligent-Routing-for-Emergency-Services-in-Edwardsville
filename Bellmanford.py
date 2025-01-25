@@ -1,4 +1,3 @@
-
 def bellman_ford(graph, start, end):
     #initializing distances to all nodes as infinity
     distances = {node: float('infinity') for node in graph}

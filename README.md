@@ -1,7 +1,5 @@
-# Intelligent Routing for Emergency Services in Edwardsville
+# Intelligent Routing System for Emergency Services in Edwardsville
 ## CS 456 Final Project - Team Everest
-
-# Offline Routing System for Emergency Responders in Edwardsville
 
 This project aims to create an offline routing system for emergency services (fire departments, police stations, hospitals) in the Edwardsville area. The system uses advanced algorithms to dynamically calculate the fastest route for emergency responders during severe internet outages. The goal is to ensure that emergency responders can reach their destinations as quickly as possible, even without access to real-time GPS data.
 

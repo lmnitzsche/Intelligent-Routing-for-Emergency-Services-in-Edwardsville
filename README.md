@@ -1,5 +1,5 @@
-# Intelligent Routing System for Emergency Services in Edwardsville
-### By Logan Nitzsche, Sushrit Kafle, Nikhil Saini, and Krishna Khanal
+# Routing System for Emergency Services in Edwardsville
+### By Sushrit Kafle, Logan Nitzsche, Nikhil Saini, and Krishna Khanal
 
 ## Overview
 
